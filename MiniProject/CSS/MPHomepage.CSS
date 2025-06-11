@@ -3,6 +3,13 @@ body {
     margin: 0px;
 }
 
+.decorHeader {
+    width: 1510px;
+    margin-left: 10px;
+    height: 185px;
+    border: 3px solid black;
+}
+
 /* start of header formatting */
 .profileHeader {
     font-family: 'Times New Roman', Times, serif, sans-serif;
@@ -31,7 +38,7 @@ body {
     position: absolute;
     left: 200px;
     top: 70px;
-    color: #00008B;
+    font-size: 16px;
 }
 
 .indeedLink {
@@ -56,6 +63,18 @@ body {
     position: absolute;
     top: 45px;
     left: 980px;
+}
+
+.discord {
+    position: absolute;
+    top: 65px;
+    left: 980px;
+}
+
+.discordLink {
+    position: absolute;
+    top: 65px;
+    left: 1000px;
 }
 
 /* end of the header formatting*/
