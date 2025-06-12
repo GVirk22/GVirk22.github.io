@@ -93,8 +93,7 @@
 
 .homeTab {
     position: absolute;
-    border-right: 2px solid white;
-    border-bottom: 2px solid white;
+    border-bottom: 3px solid white;
     text-align: center;
     width: 33.3333%;
     height: 25px;
@@ -106,9 +105,9 @@
     text-align: center;
     width: 33.3333%;
     height: 25px;
-    border-right: 2px solid white;
-    border-left: 2px solid white;
-    border-bottom: 2px solid white;
+    border-right: 3px solid white;
+    border-left: 3px solid white;
+    border-bottom: 3px solid white;
 }
 
 .hobbiesTab {
@@ -117,7 +116,7 @@
     text-align: center;
     width: 33.3333%;
     height: 25px;
-    border-bottom: 2px solid white;
+    border-bottom: 3px solid white;
 }
 
 /* end of navigation bar */
