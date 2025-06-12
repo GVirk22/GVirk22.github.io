@@ -1,0 +1,18 @@
+body {
+    background-image: url(../Images/background.jpg);
+}
+
+.bioBox {
+    position: absolute;
+    top: 240px;
+    height: 100%;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 10px;
+    background-color: white;
+}
+
+.aboutTitle {
+    margin-top: 30px;
+    margin-left: 50px;
+}
