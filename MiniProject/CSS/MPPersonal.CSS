@@ -1,0 +1,13 @@
+body {
+     background-image: url(../Images/background.jpg);
+}
+
+.personalBody {
+    position: absolute;
+    background-color: white;
+    top: 240px;
+    left: 25%;
+    margin-top: 10px;
+    width: 75%;
+    height: 100%;
+}
