@@ -35,3 +35,20 @@ body {
     width: 55%;
     height: 100px;
 }
+
+.cultusLake {
+    position: absolute;
+    left: 740px;
+    top: 110px;
+    border: 2px solid black;
+    padding: 3px;
+}
+
+.pInfoText2 {
+    position: absolute;
+    top: 330px;
+    left: 478px;
+    font-size: 20px;
+    width: 55%;
+    height: 100px;
+}
