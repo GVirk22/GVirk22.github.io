@@ -53,3 +53,12 @@ body {
     width: 55%;
     height: 100px;
 }
+
+.lakeLouise {
+    position: absolute;
+    left: 70px;
+    top: 340px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 3px;
+}
