@@ -2,6 +2,20 @@ body {
      background-image: url(../Images/background.jpg);
 }
 
+.anchorSection {
+    position: absolute;
+    background-color: rgb(192, 192, 192);
+    top: 240px;
+    left: 38px;
+    margin-top: 10px;
+    width: 300px;
+    height: 120px;
+}
+
+.anchorSection p {
+    text-align: center;
+}
+
 .personalBody {
     position: absolute;
     background-color: white;
@@ -9,5 +23,74 @@ body {
     left: 25%;
     margin-top: 10px;
     width: 75%;
-    height: 100%;
+    height: 1200px;
+}
+
+.personalBodyDecor {
+    position: absolute;
+    border: 2px solid black;
+    height: 97%;
+    width: 97%;
+    top: 17px;
+    left: 17px;
+}
+
+.pInfoTitle {
+    position: absolute;
+    left: 40px;
+    top: 15px;
+}
+
+.pInfoText {
+    position: absolute;
+    top: 55px;
+    left: 40px;
+    font-size: 20px;
+    width: 55%;
+    height: 100px;
+}
+
+.cultusLake {
+    position: absolute;
+    left: 700px;
+    top: 90px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 3px;
+}
+
+.pInfoText2 {
+    position: absolute;
+    top: 330px;
+    left: 478px;
+    font-size: 20px;
+    width: 55%;
+    height: 100px;
+}
+
+.lakeLouise {
+    position: absolute;
+    left: 70px;
+    top: 350px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 3px;
+}
+
+.pInfoText3 {
+    position: absolute;
+    top: 650px;
+    left: 40px;
+    font-size: 20px;
+    width: 55%;
+    height: 100px;
+}
+
+.paintball {
+    position: absolute;
+    left: 700px;
+    top: 675px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 3px;
 }
