@@ -38,8 +38,9 @@ body {
 
 .cultusLake {
     position: absolute;
-    left: 740px;
-    top: 110px;
+    left: 700px;
+    top: 90px;
+    text-align: center;
     border: 2px solid black;
     padding: 3px;
 }
