@@ -23,13 +23,13 @@ body {
     left: 25%;
     margin-top: 10px;
     width: 75%;
-    height: 1300px;
+    height: 1200px;
 }
 
 .personalBodyDecor {
     position: absolute;
     border: 2px solid black;
-    height: 95%;
+    height: 97%;
     width: 97%;
     top: 17px;
     left: 17px;
@@ -84,4 +84,13 @@ body {
     font-size: 20px;
     width: 55%;
     height: 100px;
+}
+
+.paintball {
+    position: absolute;
+    left: 700px;
+    top: 675px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 3px;
 }
