@@ -2,6 +2,20 @@ body {
     background-image: url(../Images/background.jpg);
 }
 
+.eduAnchorSection {
+    position: absolute;
+    background-color: rgb(192, 192, 192);
+    top: 240px;
+    left: 38px;
+    margin-top: 10px;
+    width: 300px;
+    height: 120px;
+}
+
+.eduAnchorSection p {
+    text-align: center;
+}
+
 .educationBody {
     position: absolute;
     background-color: white;
