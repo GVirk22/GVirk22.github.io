@@ -1,0 +1,22 @@
+body {
+    background-image: url(../Images/background.jpg);
+}
+
+.hobbiesBody {
+    position: absolute;
+    background-color: white;
+    top: 240px;
+    left: 25%;
+    margin-top: 10px;
+    width: 75%;
+    height: 1200px;
+}
+
+.hobbiesBodyDecor {
+    position: absolute;
+    border: 2px solid black;
+    height: 97%;
+    width: 97%;
+    top: 17px;
+    left: 17px;
+}
