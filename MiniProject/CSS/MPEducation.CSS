@@ -1,8 +1,8 @@
 body {
-     background-image: url(../Images/background.jpg);
+    background-image: url(../Images/background.jpg);
 }
 
-.anchorSection {
+.eduAnchorSection {
     position: absolute;
     background-color: rgb(192, 192, 192);
     top: 240px;
@@ -12,11 +12,11 @@ body {
     height: 120px;
 }
 
-.anchorSection p {
+.eduAnchorSection p {
     text-align: center;
 }
 
-.personalBody {
+.educationBody {
     position: absolute;
     background-color: white;
     top: 240px;
@@ -26,7 +26,7 @@ body {
     height: 1200px;
 }
 
-.personalBodyDecor {
+.educationBodyDecor {
     position: absolute;
     border: 2px solid black;
     height: 97%;
@@ -35,13 +35,13 @@ body {
     left: 17px;
 }
 
-.pInfoTitle {
+.eduTitle {
     position: absolute;
     left: 40px;
     top: 15px;
 }
 
-.pInfoText {
+.highschoolText {
     position: absolute;
     top: 55px;
     left: 60px;
@@ -50,16 +50,16 @@ body {
     height: 100px;
 }
 
-.cultusLake {
+.caribooPicture {
     position: absolute;
     left: 700px;
-    top: 90px;
+    top: 70px;
     text-align: center;
     border: 2px solid black;
     padding: 3px;
 }
 
-.pInfoText2 {
+.calgaryText {
     position: absolute;
     top: 330px;
     left: 465px;
@@ -68,16 +68,16 @@ body {
     height: 100px;
 }
 
-.lakeLouise {
+.universityOfCalgary {
     position: absolute;
-    left: 70px;
-    top: 350px;
+    left: 20px;
+    top: 340px;
     text-align: center;
     border: 2px solid black;
     padding: 3px;
 }
 
-.pInfoText3 {
+.sfuText {
     position: absolute;
     top: 650px;
     left: 60px;
@@ -86,9 +86,9 @@ body {
     height: 100px;
 }
 
-.paintball {
+.simonFraserUniversity {
     position: absolute;
-    left: 700px;
+    left: 690px;
     top: 675px;
     text-align: center;
     border: 2px solid black;
