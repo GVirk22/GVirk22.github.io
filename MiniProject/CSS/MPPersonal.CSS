@@ -44,7 +44,7 @@ body {
 .pInfoText {
     position: absolute;
     top: 55px;
-    left: 40px;
+    left: 60px;
     font-size: 20px;
     width: 55%;
     height: 100px;
@@ -62,7 +62,7 @@ body {
 .pInfoText2 {
     position: absolute;
     top: 330px;
-    left: 478px;
+    left: 465px;
     font-size: 20px;
     width: 55%;
     height: 100px;
@@ -80,7 +80,7 @@ body {
 .pInfoText3 {
     position: absolute;
     top: 650px;
-    left: 40px;
+    left: 60px;
     font-size: 20px;
     width: 55%;
     height: 100px;

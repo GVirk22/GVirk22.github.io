@@ -11,3 +11,27 @@ body {
     width: 75%;
     height: 1200px;
 }
+
+.educationBodyDecor {
+    position: absolute;
+    border: 2px solid black;
+    height: 97%;
+    width: 97%;
+    top: 17px;
+    left: 17px;
+}
+
+.eduTitle {
+    position: absolute;
+    left: 40px;
+    top: 15px;
+}
+
+.highschoolText {
+    position: absolute;
+    top: 55px;
+    left: 60px;
+    font-size: 20px;
+    width: 55%;
+    height: 100px;
+}
