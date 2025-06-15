@@ -35,3 +35,12 @@ body {
     width: 55%;
     height: 100px;
 }
+
+.caribooPicture {
+    position: absolute;
+    left: 700px;
+    top: 70px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 3px;
+}
