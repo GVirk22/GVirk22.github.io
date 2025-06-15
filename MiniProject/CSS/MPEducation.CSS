@@ -71,3 +71,12 @@ body {
     width: 55%;
     height: 100px;
 }
+
+.simonFraserUniversity {
+    position: absolute;
+    left: 690px;
+    top: 675px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 3px;
+}
