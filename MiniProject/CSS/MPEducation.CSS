@@ -44,3 +44,12 @@ body {
     border: 2px solid black;
     padding: 3px;
 }
+
+.calgaryText {
+    position: absolute;
+    top: 330px;
+    left: 465px;
+    font-size: 20px;
+    width: 55%;
+    height: 100px;
+}
