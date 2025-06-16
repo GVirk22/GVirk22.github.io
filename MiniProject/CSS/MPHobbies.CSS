@@ -27,7 +27,7 @@ body {
     top: 15px;
 }
 
-.hobbyText1 {
+.sportsText {
     position: absolute;
     top: 55px;
     left: 60px;
@@ -40,6 +40,24 @@ body {
     position: absolute;
     left: 760px;
     top: 70px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 3px;
+}
+
+.musicText {
+    position: absolute;
+    top: 330px;
+    left: 465px;
+    font-size: 20px;
+    width: 55%;
+    height: 100px;
+}
+
+.thankMeLater {
+    position: absolute;
+    left: 80px;
+    top: 350px;
     text-align: center;
     border: 2px solid black;
     padding: 3px;
