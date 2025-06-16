@@ -20,3 +20,27 @@ body {
     top: 17px;
     left: 17px;
 }
+
+.hobbiesTitle {
+    position: absolute;
+    left: 40px;
+    top: 15px;
+}
+
+.hobbyText1 {
+    position: absolute;
+    top: 55px;
+    left: 60px;
+    font-size: 20px;
+    width: 55%;
+    height: 100px;
+}
+
+.canucksLogo {
+    position: absolute;
+    left: 760px;
+    top: 70px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 3px;
+}
